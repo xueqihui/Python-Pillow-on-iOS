@@ -16,3 +16,6 @@ The key functions are as following:
 5. set build arch to x86_64 and arm64
 6. build and run
 7. enjoy!
+
+
+BTW: if you are interested in pillow source code, I can upload them. however there are some serious code changes for pillow source code in order to successfully make the pillow static library working in iOS.   
